@@ -1,14 +1,14 @@
 body {
 	background-color: #EEE;
-	font-family: Helvetica, Arial, sans-serif;
-	font-size: 30px;
+	font-family: Arial;
+	font-size: 28px;
 	text-decoration:none;
 	
 }
 #header{
 	text-align: center;
 	background-color: #66CCFF;
-	width:	1500px;
+	width:	1550px;
 	font-size: 40px;
 }	
 	
@@ -17,7 +17,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	background-color: white;
-	width: 1500px;
+	width: 1550px;
 }	
 
 }
@@ -31,18 +31,19 @@ body {
 }
 #content {
 	padding: 10px; 
-	width:	1500px;
+	width:	1550px;
 	
 }
 #nav {		
-	width: 300px;
+	width: 400px;
 	float: left;
+	padding:10px;
 }
 
 		
 #nav ul{
 	list-style-type:none;
-	padding:100px;
+	padding:10px;
 	text-align: left;
 	
 }	
@@ -57,7 +58,7 @@ background-repeat: no-repeat;
 
 
 #main {
-	width: 1500px;
+	width: 1200px;
 	float: right;
 	text-decoration: none;
 }
@@ -66,7 +67,7 @@ background-repeat: no-repeat;
 	
 	background-color: 999999;
 	color: white;
-	text-align: center;
+	text-align: right;
 	
 	
 }
